@@ -8,3 +8,5 @@ git remote add origin https://github.com/ALINA865/new_repo1.git
 git push -u origin main
 
 **старая ссылка** 
+while true
+print(123)
