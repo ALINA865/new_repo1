@@ -10,7 +10,6 @@ git push -u origin main
 **старая ссылка** 
 
 
-while true
-print(123)
- hello
- 
+*новая ссылка*
+
+
